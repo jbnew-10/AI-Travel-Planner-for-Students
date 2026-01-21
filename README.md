@@ -1,4 +1,4 @@
-# AI Travel Planner Agent for Students
+# AI Travel Planner for Students
 
 Welcome to the **AI Travel Planner** — an intelligent assistant powered by **IBM WatsonX** to help users plan trips effortlessly.  
 The AI is strictly limited to **travel-related queries**. If asked about anything unrelated, it politely responds:  
@@ -45,7 +45,7 @@ Make sure to start both frontend and backend for the app to work correctly.
 
 ---
 
-### 🔧 Backend Setup
+### Backend Setup
 
 1. Move into the backend folder:
    
